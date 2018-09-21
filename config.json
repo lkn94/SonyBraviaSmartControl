@@ -1,0 +1,18 @@
+{
+	"server" : {
+		"name" : "raspberrypi",
+		"address" : "192.168.17X.XX"
+	},
+	"devices" : {
+		"FritzBox" : {
+			"name" : "FritzBox",
+			"address" : "192.168.17X.XX",
+			"location" : "EG"
+		}
+	},
+	"control" : {
+		"Bravia" : {
+			"address" : "192.168.17X.XX"
+		}
+	}
+}
